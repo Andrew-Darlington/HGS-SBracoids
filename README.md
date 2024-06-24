@@ -1,4 +1,7 @@
 # HGS-SBracoids
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12518758.svg)](https://doi.org/10.5281/zenodo.12518758)
+
 Algorithm for counting Hopf-Galois structures and skew bracoids, along with databases of results.
 
 There are two algorithms included in this repository, represented by the files "Bracoid-HGS basic.m" and "Bracoid-HGS adv.m". They are written in the Magma programming langauge for computational algebra.
